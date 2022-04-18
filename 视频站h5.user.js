@@ -47,6 +47,7 @@
 // @include    https://v.huya.com/play/*
 // @include    https://www.huya.com/*
 // @include    https://v.douyu.com/*
+// @include    https://www.icve.com.cn/*
 // @include    https://www.douyu.com/*
 // @include    http://star.longzhu.com/*
 // @include    https://star.longzhu.com/*
